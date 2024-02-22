@@ -19,7 +19,7 @@
 <h4>Artificial Intelligence:</h4>
 <ul>
   <li><a href="https://github.com/aleva147/Artificial-Intelligence/blob/01-Pathfinding/README.md">Pathfinding</a></li>
-  <li><a href="https://github.com/aleva147/Artificial-Intelligence/blob/01-Pathfinding/README.md">Game Trees</a> (scroll down)</li>
+  <li><a href="https://github.com/aleva147/Artificial-Intelligence/blob/01-Pathfinding/README.md">Game Trees</a> (scroll down after clicking)</li>
 </ul>
 
 <h4>Mobile Apps:</h4>
