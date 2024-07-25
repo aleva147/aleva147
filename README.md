@@ -29,7 +29,7 @@
 
 <h4>System:</h4>
 <ul>
-  <li><a href="https://github.com/aleva147/Operating-System/blob/main/README.md">Operating System</a> (no video for now)</li>
+  <li><a href="https://github.com/aleva147/Operating-System/blob/main/README.md">Operating System</a></li>
   <li><a href="https://github.com/aleva147/">Compiler for MicroJava</a> *has to remain private until the end of the school year</li>
   <li><a href="https://github.com/aleva147/">Assembler</a> *has to remain private until the end of the school year</li>
 </ul>
