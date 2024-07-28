@@ -36,7 +36,7 @@
   <li><a href="https://github.com/aleva147/Assembler-Linker-and-Emulator/blob/main/README.md">Assembler, Linker and an Emulator</a></li>
 </ul>
 
-<h4>Microcontrollers:</h4>
+<h4>Hardware:</h4>
 <ul>
   <li><a href="https://github.com/aleva147/STM32F103R6-Projects/blob/main/README.md">STM32F103R6 Projects</a></li>
   <li><a href="https://github.com/aleva147/CPU-in-a-Simulator/blob/main/README.md">CPU in a Simulator</a></li>
