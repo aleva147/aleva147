@@ -6,11 +6,13 @@
 <ul>
   <li><a href="https://github.com/aleva147/House-Renovations/blob/main/README.md">House Renovations App</a></li>
   <li><a href="https://github.com/aleva147/Communication-App/blob/main/README.md">Communication App</a></li>
+  <li><a href="https://github.com/aleva147/Simulating-DER-Management/blob/main/README.md">Simulating DER Management</a></li>
+  <li><a href="https://github.com/aleva147/Server-with-Subsystems">Server with Subsystems</a> (missing video)</li>
 </ul>
 
 <h4>Video Games:</h4>
 <ul>
-  <li><a href="https://github.com/aleva147/Unity-Rezedo/blob/main/README.md">Rezedo</a> (a gift for family members)</li>
+  <li><a href="https://github.com/aleva147/Unity-Rezedo/blob/main/README.md">Rezedo</a></li>
   <li><a href="https://github.com/aleva147/Unity-Snake/blob/main/README.md">Snake</a></li>
   <li><a href="https://github.com/aleva147/Unity-Space-Invaders/blob/main/README.md">Space Invaders</a></li>
   <li><a href="https://github.com/aleva147/Unity-Minesweeper/blob/main/README.md">Minesweeper</a></li>
@@ -36,7 +38,9 @@
 
 <h4>Microcontrollers:</h4>
 <ul>
-  <li><a href="https://github.com/aleva147/STM32F103R6-Microcontroller/blob/main/README.md">STM32F103R6 Projects</a></li>
+  <li><a href="https://github.com/aleva147/STM32F103R6-Projects/blob/main/README.md">STM32F103R6 Projects</a></li>
+  <li><a href="https://github.com/aleva147/CPU-in-a-Simulator/blob/main/README.md">CPU in a Simulator</a></li>
+  <li><a href="https://github.com/aleva147/CPU-on-an-FPGA/blob/main/README.md">CPU on an FPGA</a></li>
 </ul>
 
 
