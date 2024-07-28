@@ -32,8 +32,8 @@
 <h4>System:</h4>
 <ul>
   <li><a href="https://github.com/aleva147/Operating-System/blob/main/README.md">Operating System</a></li>
-  <li><a href="https://github.com/aleva147/Compiler-for-MicroJava-Showcase/blob/main/README.md">Compiler for MicroJava</a></li>
   <li><a href="https://github.com/aleva147/Assembler-Linker-and-Emulator/blob/main/README.md">Assembler, Linker and an Emulator</a></li>
+  <li><a href="https://github.com/aleva147/Compiler-for-MicroJava-Showcase/blob/main/README.md">Compiler for MicroJava</a></li>
 </ul>
 
 <h4>Hardware:</h4>
