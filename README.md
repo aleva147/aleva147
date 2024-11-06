@@ -13,7 +13,6 @@
 <h4>Video Games:</h4>
 <ul>
   <li><a href="https://github.com/aleva147/Unity-Rezedo/blob/main/README.md">Rezedo</a></li>
-  <li><a href="https://github.com/aleva147/Unity-Snake/blob/main/README.md">Snake</a></li>
   <li><a href="https://github.com/aleva147/Unity-Space-Invaders/blob/main/README.md">Space Invaders</a></li>
   <li><a href="https://github.com/aleva147/Unity-Minesweeper/blob/main/README.md">Minesweeper</a></li>
 </ul>
