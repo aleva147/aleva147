@@ -37,6 +37,7 @@
 
 <h4>Hardware:</h4>
 <ul>
+  <li><a href="https://www.youtube.com/watch?v=TDOLidR57ME">Video Game Console</a></li>
   <li><a href="https://github.com/aleva147/STM32F103R6-Projects/blob/main/README.md">STM32F103R6 Projects</a></li>
   <li><a href="https://github.com/aleva147/CPU-in-a-Simulator/blob/main/README.md">CPU in a Simulator</a></li>
   <li><a href="https://github.com/aleva147/CPU-on-an-FPGA/blob/main/README.md">CPU on an FPGA</a></li>
