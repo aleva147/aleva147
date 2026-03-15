@@ -38,4 +38,9 @@
   <li><a href="https://github.com/aleva147/CPU-on-an-FPGA">CPU on an FPGA</a></li>
 </ul>
 
+<h4>Other:</h4>
+<ul>
+  <li><a href="https://github.com/Zeljko103/natural-language-processing">Named Entity Recognition in Serbian Texts</a></li>
+</ul>
+
 <hr>
