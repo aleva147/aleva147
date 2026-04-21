@@ -1,25 +1,22 @@
 <h4>Welcome! 😁  Links leading to all my projects are listed below.</h4>
 <hr>
 
-<h4>Web Projects:</h4>
-<ul>
-  <li><a href="https://youtu.be/xkfakBp0T3U">Website with Original Two-Player Games</a></li>
-  <li><a href="https://github.com/aleva147/Skiing-Price-Predictor">Web Scraper and Price Predictor</a></li>
-  <li><a href="https://github.com/aleva147/Communication-App">Discord Replica</a></li>
-  <li><a href="https://github.com/aleva147/House-Renovations">House Renovations App</a></li>
-  <li><a href="https://github.com/aleva147/Simulating-DER-Management">Simulating DER Management</a></li>
-  <li><a href="https://github.com/aleva147/Server-with-Subsystems">Server with Subsystems</a></li>
-</ul>
-
-<h4>Video Games:</h4>
+<h4>Video Games and Graphics:</h4>
 <ul>
   <li><a href="https://github.com/aleva147/Arduino-Game-Console">Video Game Console</a></li>
+  <li><a href="https://youtu.be/xkfakBp0T3U">Website with Original Two-Player Games</a></li>
   <li><a href="https://github.com/aleva147/3D-Terrain-Tool">3D Terrain Creator & Editor</a></li>
   <li><a href="https://github.com/aleva147/Artificial-Intelligence">K-Puzzle and Connect4 AI</a></li>
   <li><a href="https://github.com/aleva147/OpenGL-Mandelbrot-Set">OpenGL Mandelbrot Set</a></li>
   <li><a href="https://github.com/aleva147/Rezedo-Retro">Rezedo Retro</a></li>
   <li><a href="https://github.com/aleva147/Unity-Space-Invaders">Space Invaders</a></li>
   <li><a href="https://github.com/aleva147/Unity-Minesweeper">Minesweeper</a></li>
+</ul>
+
+<h4>Machine Learning:</h4>
+<ul>
+  <li><a href="https://github.com/aleva147/Skiing-Price-Predictor">Web Scraper and Price Predictor</a></li>
+  <li><a href="https://github.com/Zeljko103/natural-language-processing">Named Entity Recognition in Serbian Texts</a></li>
 </ul>
 
 <h4>Mobile Apps:</h4>
@@ -40,7 +37,10 @@
 
 <h4>Other:</h4>
 <ul>
-  <li><a href="https://github.com/Zeljko103/natural-language-processing">Named Entity Recognition in Serbian Texts</a></li>
+  <li><a href="https://github.com/aleva147/Communication-App">Discord Replica</a></li>
+  <li><a href="https://github.com/aleva147/House-Renovations">House Renovations App</a></li>
+  <li><a href="https://github.com/aleva147/Simulating-DER-Management">Simulating DER Management</a></li>
+  <li><a href="https://github.com/aleva147/Server-with-Subsystems">Server with Subsystems</a></li>
 </ul>
 
 <hr>
