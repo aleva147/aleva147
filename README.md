@@ -6,6 +6,7 @@
   <li><a href="https://github.com/aleva147/Arduino-Game-Console">Video Game Console</a></li>
   <li><a href="https://youtu.be/xkfakBp0T3U">Website with Original Two-Player Games</a></li>
   <li><a href="https://github.com/aleva147/3D-Terrain-Tool">3D Terrain Creator & Editor</a></li>
+  <li><a href="https://github.com/aleva147/Tic-Tac-Toe">Overengineered Tic-Tac-Toe</a></li>
   <li><a href="https://github.com/aleva147/Artificial-Intelligence">K-Puzzle and Connect4 AI</a></li>
   <li><a href="https://github.com/aleva147/OpenGL-Mandelbrot-Set">OpenGL Mandelbrot Set</a></li>
   <li><a href="https://github.com/aleva147/Rezedo-Retro">Rezedo Retro</a></li>
